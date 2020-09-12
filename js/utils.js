@@ -169,7 +169,7 @@ NexT.utils = {
    * Tabs tag listener (without twitter bootstrap).
    */
   registerTabsTag: function() {
-    // Binding `nav-tabs` & `tab-content` by real time permalink changing.
+    // Binding `nav-tabs` & `tab-content` by real time
     document.querySelectorAll('.tabs ul.nav-tabs .tab').forEach(element => {
       element.addEventListener('click', event => {
         event.preventDefault();
