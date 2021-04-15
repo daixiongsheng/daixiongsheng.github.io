@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-04-14T16:53:51.265Z</updated>
+  <updated>2021-04-15T09:41:03.890Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new.target是个啥</title>
+    <link href="https://daixiongsheng.github.io/2021/04/15/202104/new-target%E6%98%AF%E4%B8%AA%E5%95%A5/"/>
+    <id>https://daixiongsheng.github.io/2021/04/15/202104/new-target%E6%98%AF%E4%B8%AA%E5%95%A5/</id>
+    <published>2021-04-15T09:29:45.000Z</published>
+    <updated>2021-04-15T09:41:03.890Z</updated>
+    
+    
+    <summary type="html"> </summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>浏览器缓存</title>
@@ -346,23 +361,6 @@
     <id>https://daixiongsheng.github.io/2020/09/13/202009/JS-null-undefined/</id>
     <published>2020-09-12T17:10:23.000Z</published>
     <updated>2021-04-13T05:49:43.643Z</updated>
-    
-    
-    <summary type="html"> </summary>
-    
-    
-    
-    
-    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HTML--实体字符</title>
-    <link href="https://daixiongsheng.github.io/2020/09/13/202009/HTML%E5%AE%9E%E4%BD%93%E5%AD%97%E7%AC%A6/"/>
-    <id>https://daixiongsheng.github.io/2020/09/13/202009/HTML%E5%AE%9E%E4%BD%93%E5%AD%97%E7%AC%A6/</id>
-    <published>2020-09-12T17:02:14.000Z</published>
-    <updated>2021-04-13T05:49:43.511Z</updated>
     
     
     <summary type="html"> </summary>
