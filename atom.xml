@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-04-16T01:43:49.020Z</updated>
+  <updated>2021-04-18T16:58:10.040Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ES6-ES12</title>
+    <link href="https://daixiongsheng.github.io/2021/04/18/202104/es6-es12/"/>
+    <id>https://daixiongsheng.github.io/2021/04/18/202104/es6-es12/</id>
+    <published>2021-04-18T11:36:02.000Z</published>
+    <updated>2021-04-18T16:58:10.040Z</updated>
+    
+    
+    <summary type="html"> </summary>
+    
+    
+    
+    
+    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>new.target是个啥</title>
@@ -346,23 +363,6 @@
     <id>https://daixiongsheng.github.io/2020/09/13/202009/JS-%E6%95%B0%E5%80%BC/</id>
     <published>2020-09-12T17:10:55.000Z</published>
     <updated>2021-04-13T05:49:43.586Z</updated>
-    
-    
-    <summary type="html"> </summary>
-    
-    
-    
-    
-    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JS--null/undefined</title>
-    <link href="https://daixiongsheng.github.io/2020/09/13/202009/JS-null-undefined/"/>
-    <id>https://daixiongsheng.github.io/2020/09/13/202009/JS-null-undefined/</id>
-    <published>2020-09-12T17:10:23.000Z</published>
-    <updated>2021-04-13T05:49:43.643Z</updated>
     
     
     <summary type="html"> </summary>
