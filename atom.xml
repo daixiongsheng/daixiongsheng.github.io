@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-04-18T16:58:10.040Z</updated>
+  <updated>2021-04-22T16:44:43.891Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webpack优化踩坑记</title>
+    <link href="https://daixiongsheng.github.io/2021/04/22/202104/webpack%E4%BC%98%E5%8C%96%E8%B8%A9%E5%9D%91%E8%AE%B0/"/>
+    <id>https://daixiongsheng.github.io/2021/04/22/202104/webpack%E4%BC%98%E5%8C%96%E8%B8%A9%E5%9D%91%E8%AE%B0/</id>
+    <published>2021-04-22T09:06:20.000Z</published>
+    <updated>2021-04-22T16:44:43.891Z</updated>
+    
+    
+    <summary type="html"> </summary>
+    
+    
+    
+    
+    <category term="webpack" scheme="https://daixiongsheng.github.io/tags/webpack/"/>
+    
+    <category term="性能优化" scheme="https://daixiongsheng.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>ES6-ES12</title>
@@ -346,23 +365,6 @@
     <id>https://daixiongsheng.github.io/2020/09/13/202009/%E6%B5%8F%E8%A7%88%E5%99%A8console/</id>
     <published>2020-09-12T17:35:32.000Z</published>
     <updated>2021-04-13T05:49:43.413Z</updated>
-    
-    
-    <summary type="html"> </summary>
-    
-    
-    
-    
-    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JS--数值</title>
-    <link href="https://daixiongsheng.github.io/2020/09/13/202009/JS-%E6%95%B0%E5%80%BC/"/>
-    <id>https://daixiongsheng.github.io/2020/09/13/202009/JS-%E6%95%B0%E5%80%BC/</id>
-    <published>2020-09-12T17:10:55.000Z</published>
-    <updated>2021-04-13T05:49:43.586Z</updated>
     
     
     <summary type="html"> </summary>
