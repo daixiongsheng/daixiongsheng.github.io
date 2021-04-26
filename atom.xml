@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-04-23T02:31:38.128Z</updated>
+  <updated>2021-04-26T09:45:04.394Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>call 和 apply 性能对比</title>
+    <link href="https://daixiongsheng.github.io/2021/04/25/202104/call-%E5%92%8C-apply-%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/"/>
+    <id>https://daixiongsheng.github.io/2021/04/25/202104/call-%E5%92%8C-apply-%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/</id>
+    <published>2021-04-25T05:51:54.000Z</published>
+    <updated>2021-04-26T09:45:04.394Z</updated>
+    
+    
+    <summary type="html"> </summary>
+    
+    
+    
+    
+    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>webpack优化踩坑记</title>
@@ -348,23 +365,6 @@
     <id>https://daixiongsheng.github.io/2020/09/13/202009/JS-new-%E5%8E%9F%E7%90%86/</id>
     <published>2020-09-12T17:53:03.000Z</published>
     <updated>2021-04-13T05:49:43.629Z</updated>
-    
-    
-    <summary type="html"> </summary>
-    
-    
-    
-    
-    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浏览器--console</title>
-    <link href="https://daixiongsheng.github.io/2020/09/13/202009/%E6%B5%8F%E8%A7%88%E5%99%A8console/"/>
-    <id>https://daixiongsheng.github.io/2020/09/13/202009/%E6%B5%8F%E8%A7%88%E5%99%A8console/</id>
-    <published>2020-09-12T17:35:32.000Z</published>
-    <updated>2021-04-13T05:49:43.413Z</updated>
     
     
     <summary type="html"> </summary>
