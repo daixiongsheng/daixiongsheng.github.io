@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-07-25T07:08:55.002Z</updated>
+  <updated>2021-08-14T16:10:50.179Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>isNaN和Number.isNaN</title>
+    <link href="https://daixiongsheng.github.io/202108/isNaN%E5%92%8CNumber-isNaN/"/>
+    <id>https://daixiongsheng.github.io/202108/isNaN%E5%92%8CNumber-isNaN/</id>
+    <published>2021-08-14T16:00:28.000Z</published>
+    <updated>2021-08-14T16:10:50.179Z</updated>
+    
+    
+    <summary type="html"> </summary>
+    
+    
+    
+    
+    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>JS变量提升</title>
@@ -345,25 +362,6 @@
     <link href="https://daixiongsheng.github.io/202009/%E6%B5%8F%E8%A7%88%E5%99%A8-%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E-JavaScript-%E5%BC%95%E6%93%8E/"/>
     <id>https://daixiongsheng.github.io/202009/%E6%B5%8F%E8%A7%88%E5%99%A8-%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E-JavaScript-%E5%BC%95%E6%93%8E/</id>
     <published>2020-09-13T16:12:21.000Z</published>
-    <updated>2021-07-25T07:08:55.000Z</updated>
-    
-    
-    <summary type="html"> </summary>
-    
-    
-    
-    
-    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="浏览器" scheme="https://daixiongsheng.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浏览器--script标签</title>
-    <link href="https://daixiongsheng.github.io/202009/%E6%B5%8F%E8%A7%88%E5%99%A8-script%E6%A0%87%E7%AD%BE/"/>
-    <id>https://daixiongsheng.github.io/202009/%E6%B5%8F%E8%A7%88%E5%99%A8-script%E6%A0%87%E7%AD%BE/</id>
-    <published>2020-09-13T16:09:20.000Z</published>
     <updated>2021-07-25T07:08:55.000Z</updated>
     
     
