@@ -6,7 +6,7 @@
   <link href="https://daixiongsheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://daixiongsheng.github.io/"/>
-  <updated>2021-09-30T01:34:27.472Z</updated>
+  <updated>2021-10-01T05:10:41.648Z</updated>
   <id>https://daixiongsheng.github.io/</id>
   
   <author>
@@ -17,26 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>JavaScript 高级程序设计笔记</title>
     <link href="https://daixiongsheng.github.io/202109/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/"/>
     <id>https://daixiongsheng.github.io/202109/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/</id>
-    <published>2021-09-27T15:24:08.384Z</published>
-    <updated>2021-09-30T01:34:27.472Z</updated>
+    <published>2021-09-27T15:24:08.000Z</published>
+    <updated>2021-10-01T05:10:41.648Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;title: JavaScript 高级程序设计笔记 description: &#39; &#39; date: 2021-09-27 23:24:08 tags: [前端]&lt;/p&gt;
-&lt;h1 id=&quot;script&quot;&gt;script&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;async</summary>
-        
-      
+    <summary type="html"> </summary>
     
     
     
+    
+    <category term="前端" scheme="https://daixiongsheng.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
