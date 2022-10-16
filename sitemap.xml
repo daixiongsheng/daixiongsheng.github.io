@@ -2,6 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-jiti/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.454Z</lastmod>
+    
+    <date>1646897974000</date>
+    <title>npm库-jiti | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-light-spinner/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.435Z</lastmod>
+    
+    <date>1646906064000</date>
+    <title>npm库-light-spinner | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-swc-node-register/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.389Z</lastmod>
+    
+    <date>1646908382000</date>
+    <title>npm库-@swc-node-register | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-pirates/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.389Z</lastmod>
+    
+    <date>1646898233000</date>
+    <title>npm库-pirates | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-execa/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.341Z</lastmod>
+    
+    <date>1646908245000</date>
+    <title>npm库-execa | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-fn-args/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.341Z</lastmod>
+    
+    <date>1646908174000</date>
+    <title>npm库-fn-args | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-consola/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.341Z</lastmod>
+    
+    <date>1646898178000</date>
+    <title>npm库-consola | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-detect-port/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.341Z</lastmod>
+    
+    <date>1646898116000</date>
+    <title>npm库-detect-port | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>https://daixiongsheng.github.io/202203/npm%E5%BA%93-cac/</loc>
+    
+    <lastmod>2022-10-16T10:36:19.217Z</lastmod>
+    
+    <date>1646897531000</date>
+    <title>npm库-cac | none</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
     <loc>https://daixiongsheng.github.io/tags/index.html</loc>
     
     <lastmod>2022-06-26T16:21:34.420Z</lastmod>
@@ -74,105 +173,6 @@
     
     <date>1649297720000</date>
     <title>类型体操训练 | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-swc-node-register/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.300Z</lastmod>
-    
-    <date>1646908382000</date>
-    <title>每天一个npm库-@swc-node-register | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-pirates/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.280Z</lastmod>
-    
-    <date>1646898233000</date>
-    <title>每天一个npm库-pirates | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-light-spinner/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.260Z</lastmod>
-    
-    <date>1646906064000</date>
-    <title>每天一个npm库-light-spinner | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-jiti/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.244Z</lastmod>
-    
-    <date>1646897974000</date>
-    <title>每天一个npm库-jiti | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-fn-args/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.226Z</lastmod>
-    
-    <date>1646908174000</date>
-    <title>每天一个npm库-fn-args | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-execa/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.205Z</lastmod>
-    
-    <date>1646908245000</date>
-    <title>每天一个npm库-execa | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-detect-port/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.184Z</lastmod>
-    
-    <date>1646898116000</date>
-    <title>每天一个npm库-detect-port | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-consola/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.161Z</lastmod>
-    
-    <date>1646898178000</date>
-    <title>每天一个npm库-consola | none</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://daixiongsheng.github.io/202203/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AAnpm%E5%BA%93-cac/</loc>
-    
-    <lastmod>2022-06-26T16:21:34.149Z</lastmod>
-    
-    <date>1646897531000</date>
-    <title>每天一个npm库-cac | none</title>
     
     <desc></desc>
   </url>
